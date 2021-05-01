@@ -1,0 +1,14 @@
+#myCarousel img{
+    height:500px;
+    margin-top:75px;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+color: aliceblue;   
+}
+p{
+    font-size: 45px;
+}
